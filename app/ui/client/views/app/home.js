@@ -7,6 +7,6 @@ Template.home.helpers({
 		return settings.get('Layout_Home_Title');
 	},
 	body() {
-		return settings.get('Layout_Home_Body');
+		return settings.get('Layout_Home_Body_Custom');
 	},
 });

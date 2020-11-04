@@ -1,10 +1,10 @@
 {
   "name": "Rocket.Chat",
   "description": "Have your own open-source Slack-like online chat platform.",
-  "repository": "https://github.com/RocketChat/Rocket.Chat",
-  "logo": "https://raw.githubusercontent.com/RocketChat/Rocket.Chat/master/public/images/logo/1024x1024.png",
+  "repository": "https://raw.githubusercontent.com/VOID-SOFTWARE/Rocket.Chat",
+  "logo": "https://raw.githubusercontent.com/VOID-SOFTWARE/Rocket.Chat/master/public/images/logo/1024x1024.png",
   "keywords": ["meteor", "social", "community", "chat"],
-  "website": "https://rocket.chat",
+  "website": "https://void.pt",
   "env": {
     "BUILDPACK_URL": "https://github.com/RocketChat/meteor-buildpack-horse.git",
     "HEROKU_APP_NAME": {
