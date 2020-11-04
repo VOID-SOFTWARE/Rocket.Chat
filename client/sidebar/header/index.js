@@ -1,7 +1,7 @@
 import React from 'react';
 import { Sidebar } from '@rocket.chat/fuselage';
 
-import Home from './actions/Home';
+// import Home from './actions/Home';
 import Search from './actions/Search';
 import Directory from './actions/Directory';
 import Sort from './actions/Sort';
@@ -19,7 +19,7 @@ const HeaderWithData = () => {
 		<Sidebar.TopBar.Section className='sidebar--custom-colors'>
 			<UserAvatarButton user={user}/>
 			<Sidebar.TopBar.Actions>
-				<Home />
+				{/* <Home /> */}
 				<Search data-qa='sidebar-search' />
 				{user && <>
 					<Directory />

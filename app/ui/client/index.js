@@ -33,7 +33,7 @@ import './views/app/burger';
 import './views/app/createChannel';
 import './views/app/CreateDirectMessage';
 import './views/app/editStatus';
-import './views/app/home';
+// import './views/app/home';
 import './views/app/roomSearch';
 import './views/app/secretURL';
 import './views/app/invite';

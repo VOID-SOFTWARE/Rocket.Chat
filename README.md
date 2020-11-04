@@ -2,8 +2,6 @@
 
 [Urls encontrados](httpCalls.md)
 
-Editar ficheiro `config.json` na root do projeto com Nome da App e urls para download das apps, esta informacao aparece na home page do chat.
-
 ![](https://github.com/RocketChat/Rocket.Chat.Artwork/raw/master/Logos/2020/png/logo-horizontal-red.png)
 
 <h1 align="center">
