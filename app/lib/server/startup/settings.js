@@ -1421,7 +1421,7 @@ settings.addGroup("Layout", function () {
 		);
 		this.add(
 			"Layout_Home_Body_Custom",
-			`<p>Welcome to ${ name }!</p>\n<p>The ${ name } desktops apps for Windows, macOS and Linux are available to download <a title="${ name } desktop apps" href="${ desktop }" target="_blank" rel="noopener">here</a>.</p><p>The native mobile app, ${ name },\n  for Android and iOS is available from <a title="${ name } on Google Play" href="${ android }" target="_blank" rel="noopener">Google Play</a> and the <a title="${ name } on the App Store" href="${ ios }" target="_blank" rel="noopener">App Store</a>.</p>\n<p>If you\'re an admin, feel free to change this content via <strong>Administration</strong> &rarr; <strong>Layout</strong> &rarr; <strong>Home Body</strong>. Or clicking <a title="Home Body Layout" href="/admin/Layout">here</a>.</p>`,
+			'<p>Welcome to ' + name + '!</p>\n<p>The ' + name + ' desktops apps for Windows, macOS and Linux are available to download <a title="' + name + ' desktop apps" href="' + desktop + '" target="_blank" rel="noopener">here</a>.</p><p>The native mobile app, ' + name + ',\n  for Android and iOS is available from <a title="' + name + ' on Google Play" href="' + android + '" target="_blank" rel="noopener">Google Play</a> and the <a title="' + name + ' on the App Store" href="' + ios + '" target="_blank" rel="noopener">App Store</a>.</p>\n<p>If you\'re an admin, feel free to change this content via <strong>Administration</strong> &rarr; <strong>Layout</strong> &rarr; <strong>Home Body</strong>. Or clicking <a title="Home Body Layout" href="/admin/Layout">here</a>.</p>',
 			{
 				type: "code",
 				code: "text/html",
